@@ -1,0 +1,2 @@
+# Total-Quality-Project-Management
+The project management of V2V systems will cover all the 9 knowledge areas and the 5 process groups defined by the PMBOK. ex. Business case (schedule estimate, potential risks etc.), Project charter, Project planning (project management plan, WBS, activity and milestone list, Gantt chart, schedule network diagram, activity cost estimates etc.), Project execution (deliverables, work performance information etc.), Project monitoring and controlling &amp; Project closing.
